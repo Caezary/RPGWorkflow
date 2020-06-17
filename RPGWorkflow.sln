@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGWorkflow", "RPGWorkflow\RPGWorkflow.csproj", "{ED469709-D409-416E-919A-A10CC16F3BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGWorkflow.Flows", "RPGWorkflow.Flows\RPGWorkflow.Flows.csproj", "{90419090-9277-42ED-9978-1DD09FD978E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGWorkflow.Flows.Tests", "RPGWorkflow.Flows.Tests\RPGWorkflow.Flows.Tests.csproj", "{8988BFE0-2169-47BA-B421-853DD4D689C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED469709-D409-416E-919A-A10CC16F3BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED469709-D409-416E-919A-A10CC16F3BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED469709-D409-416E-919A-A10CC16F3BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED469709-D409-416E-919A-A10CC16F3BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90419090-9277-42ED-9978-1DD09FD978E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90419090-9277-42ED-9978-1DD09FD978E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90419090-9277-42ED-9978-1DD09FD978E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90419090-9277-42ED-9978-1DD09FD978E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8988BFE0-2169-47BA-B421-853DD4D689C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8988BFE0-2169-47BA-B421-853DD4D689C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8988BFE0-2169-47BA-B421-853DD4D689C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8988BFE0-2169-47BA-B421-853DD4D689C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
